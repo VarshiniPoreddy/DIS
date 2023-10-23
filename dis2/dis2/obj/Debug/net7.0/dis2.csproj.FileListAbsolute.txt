@@ -1,0 +1,15 @@
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/bin/Debug/net7.0/dis2
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/bin/Debug/net7.0/dis2.deps.json
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/bin/Debug/net7.0/dis2.runtimeconfig.json
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/bin/Debug/net7.0/dis2.dll
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/bin/Debug/net7.0/dis2.pdb
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.csproj.AssemblyReference.cache
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.AssemblyInfoInputs.cache
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.AssemblyInfo.cs
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.csproj.CoreCompileInputs.cache
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.dll
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/refint/dis2.dll
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.pdb
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/dis2.genruntimeconfig.cache
+/Users/varshiniporeddy/Projects/DIS/dis2/dis2/obj/Debug/net7.0/ref/dis2.dll
